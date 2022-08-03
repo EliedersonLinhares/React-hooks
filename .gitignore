@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+useref/node_modules
+usereducer/node_modules
+usememo/node_modules
+useinperativehandler/node_modules
+usecallback/node_modules
+
+
+useref/.gitignore
+usereducer/.gitignore
+usememo/.gitignore
+useinperativehandler/.gitignore
+usecallback/.gitignore
+
+useref/README.md
+usereducer/README.md
+usememo/README.md
+useinperativehandler/README.md
+usecallback/README.md
+
+/.vscode
+/.history
